@@ -1,0 +1,16 @@
+.odd{
+    font-family: Verdana, sans-serif;
+    background-color: #ffcccb;
+}
+#n2{
+    color:blue;
+    font-size: 36px;
+}
+#n4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cooler{
+    font-size: 32px;
+}
